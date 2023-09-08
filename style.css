@@ -14,19 +14,19 @@
 }
 
 .img {
-    width: 220px;
-    height: 220px;
+    width: 180px;
+    height: 180px;
     background-color: rgba(0, 0, 0, 0.8);
     display: flex;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
-    margin-top: 40px;
+    margin-top: 30px;
     border: 2px solid #7f1d1d;
 }
 
 .principal img {
-    width: 190px;
+    width: 120px;
 }
 
 .links {
@@ -34,11 +34,11 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    margin-top: 30px;
-    margin-bottom: 2rem;
+    margin-top: 20px;
+    margin-bottom: 1.5rem;
     background-color: #FFFFFF;
-    width: 20em;
-    height: 25em;
+    width: 25em;
+    height: 50em;
     box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.7);
     border-radius: 10px;
 }
@@ -46,7 +46,7 @@
 .site,
 .landingPage {
     background-color: #7f1d1d;
-    width: 11em;
+    width: 18em;
     padding: .8rem;
     text-align: center;
     font-size: 18px;
@@ -61,7 +61,7 @@
 }
 
 .Whatsap {
-    width: 11em;
+    width: 18em;
     padding: .8rem;
     text-align: center;
     font-size: 18px;
@@ -74,4 +74,20 @@
     border-radius: 10px;
     margin-bottom: 2rem;
     background-color: #22c55e;
+}
+
+.youtube {
+    width: 18em;
+    padding: .8rem;
+    text-align: center;
+    font-size: 18px;
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: .2rem;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+    background-color: #C4302B;
 }
