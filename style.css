@@ -11,7 +11,6 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    padding: 2rem;
 }
 
 .img {
@@ -39,15 +38,16 @@
     margin-bottom: 1.5rem;
     background-color: #FFFFFF;
     width: 23em;
-    height: 50em;
+    height: 65em;
     box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.7);
     border-radius: 10px;
+    padding: 2rem;
 }
 
 .site,
 .landingPage {
     background-color: #7f1d1d;
-    width: 18em;
+    width: 15em;
     padding: .8rem;
     text-align: center;
     font-size: 18px;
@@ -65,7 +65,7 @@
     width: 18em;
     padding: .8rem;
     text-align: center;
-    font-size: 18px;
+    font-size: 15px;
     text-decoration: none;
     color: #27272a;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -78,7 +78,7 @@
 }
 
 .youtube {
-    width: 18em;
+    width: 15em;
     padding: .8rem;
     text-align: center;
     font-size: 18px;
