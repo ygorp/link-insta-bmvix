@@ -38,15 +38,19 @@
     margin-bottom: 1.5rem;
     background-color: #FFFFFF;
     width: 23em;
-    height: 65em;
+    height: 50em;
     box-shadow: 4px 4px 4px 2px rgba(0, 0, 0, 0.7);
     border-radius: 10px;
     padding: 2rem;
 }
 
-.site,
-.landingPage {
-    background-color: #7f1d1d;
+.links a {
+    background: rgba( 127, 29, 29, 0.85 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
     width: 15em;
     padding: .8rem;
     text-align: center;
@@ -59,36 +63,4 @@
     letter-spacing: .2rem;
     border-radius: 10px;
     margin-bottom: 3rem;
-}
-
-.Whatsap {
-    width: 18em;
-    padding: .8rem;
-    text-align: center;
-    font-size: 15px;
-    text-decoration: none;
-    color: #27272a;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: .2rem;
-    border-radius: 10px;
-    margin-bottom: 2rem;
-    background-color: #22c55e;
-}
-
-.youtube {
-    width: 15em;
-    padding: .8rem;
-    text-align: center;
-    font-size: 18px;
-    text-decoration: none;
-    color: #FFFFFF;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: .2rem;
-    border-radius: 10px;
-    margin-bottom: 2rem;
-    background-color: #C4302B;
 }
