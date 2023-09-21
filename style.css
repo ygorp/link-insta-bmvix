@@ -63,9 +63,10 @@ body {
     background-color: #FFFFFF;
     width: 280px;
     padding: 8px 10px;
+    border-radius: 10px;
     color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size: 13px;
+    font-size: 15px;
     text-align: center;
     font-weight: 700;
 }
